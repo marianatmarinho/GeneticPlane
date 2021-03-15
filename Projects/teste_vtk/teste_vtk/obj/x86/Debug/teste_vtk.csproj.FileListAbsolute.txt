@@ -1,0 +1,220 @@
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\teste_vtk.exe
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\teste_vtk.pdb
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.mummy.Runtime.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.xml
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.mummy.Runtime.Unmanaged.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkCharts.Unmanaged.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkCommon.Unmanaged.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkFiltering.Unmanaged.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkGenericFiltering.Unmanaged.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkGeovis.Unmanaged.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkGraphics.Unmanaged.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkHybrid.Unmanaged.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkIO.Unmanaged.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkImaging.Unmanaged.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkInfovis.Unmanaged.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkParallel.Unmanaged.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkRendering.Unmanaged.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkViews.Unmanaged.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkVolumeRendering.Unmanaged.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkWidgets.Unmanaged.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkCharts.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkCommon.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkFiltering.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkGenericFiltering.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkGeovis.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkGraphics.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkHybrid.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkIO.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkImaging.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkInfovis.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkParallel.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkRendering.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkViews.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkVolumeRendering.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkWidgets.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Cosmo.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\VPIC.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkalglib.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkDICOMParser.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkexoIIc.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkftgl.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkmetaio.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkNetCDF.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkNetCDF_cxx.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtksys.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkverdict.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkexpat.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkfreetype.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkjpeg.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtklibxml2.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkpng.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkproj4.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtktiff.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\vtkzlib.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\Microsoft.VC90.CRT.manifest
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\msvcm90.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\msvcp90.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\bin\Debug\msvcr90.dll
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.Form1.resources
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.csproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.exe
+d:\documents\visual studio 2010\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.pdb
+D:\Documents\Visual Studio 2010\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.csprojResolveAssemblyReference.cache
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.exe
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.pdb
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.csprojResolveAssemblyReference.cache
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.Properties.Resources.resources
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.csproj.GenerateResource.Cache
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\teste_vtk.exe
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\teste_vtk.pdb
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.xml
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.mummy.Runtime.Unmanaged.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkCharts.Unmanaged.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkCommon.Unmanaged.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkFiltering.Unmanaged.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkGenericFiltering.Unmanaged.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkGeovis.Unmanaged.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkGraphics.Unmanaged.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkHybrid.Unmanaged.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkIO.Unmanaged.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkImaging.Unmanaged.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkInfovis.Unmanaged.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkParallel.Unmanaged.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkRendering.Unmanaged.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkViews.Unmanaged.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkVolumeRendering.Unmanaged.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkWidgets.Unmanaged.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkCharts.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkCommon.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkFiltering.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkGenericFiltering.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkGeovis.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkGraphics.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkHybrid.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkIO.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkImaging.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkInfovis.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkParallel.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkRendering.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkViews.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkVolumeRendering.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkWidgets.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Cosmo.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\VPIC.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkalglib.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkDICOMParser.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkexoIIc.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkftgl.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkmetaio.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkNetCDF.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkNetCDF_cxx.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtksys.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkverdict.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkexpat.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkfreetype.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkjpeg.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtklibxml2.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkpng.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkproj4.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtktiff.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\vtkzlib.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Microsoft.VC90.CRT.manifest
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\msvcm90.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\msvcp90.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\msvcr90.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\teste_vtk.exe.config
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.Form_simulacao.resources
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.Form_menu.resources
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.Form_login.resources
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.Form_cadastro.resources
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\IronPython.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\IronPython.Modules.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\IronPython.xml
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\IronPython.Modules.xml
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Script.py
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\IronPython.Wpf.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\IronPython.Wpf.xml
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.mummy.Runtime.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.dll
+C:\Users\Mariana\OneDrive\UNESP\TCC\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.LOV.resources
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\teste_vtk.exe.config
+F:\airplane\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.exe
+F:\airplane\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.pdb
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\teste_vtk.exe
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\teste_vtk.pdb
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Microsoft.Dynamic.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Microsoft.Scripting.Metadata.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\IronPython.xml
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\IronPython.Modules.xml
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\IronPython.Wpf.xml
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.xml
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Microsoft.Scripting.xml
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Microsoft.Dynamic.xml
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Microsoft.Scripting.Metadata.xml
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.mummy.Runtime.Unmanaged.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkCharts.Unmanaged.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkCommon.Unmanaged.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkFiltering.Unmanaged.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkGenericFiltering.Unmanaged.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkGeovis.Unmanaged.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkGraphics.Unmanaged.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkHybrid.Unmanaged.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkIO.Unmanaged.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkImaging.Unmanaged.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkInfovis.Unmanaged.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkParallel.Unmanaged.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkRendering.Unmanaged.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkViews.Unmanaged.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkVolumeRendering.Unmanaged.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Kitware.VTK.vtkWidgets.Unmanaged.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkCharts.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkCommon.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkFiltering.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkGenericFiltering.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkGeovis.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkGraphics.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkHybrid.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkIO.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkImaging.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkInfovis.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkParallel.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkRendering.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkViews.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkVolumeRendering.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkWidgets.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Cosmo.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\VPIC.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkalglib.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkDICOMParser.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkexoIIc.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkftgl.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkmetaio.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkNetCDF.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkNetCDF_cxx.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtksys.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkverdict.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkexpat.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkfreetype.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkjpeg.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtklibxml2.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkpng.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkproj4.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtktiff.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\vtkzlib.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\Microsoft.VC90.CRT.manifest
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\msvcm90.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\msvcp90.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\bin\Debug\msvcr90.dll
+F:\airplane\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.csprojResolveAssemblyReference.cache
+F:\airplane\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.Form_simulacao.resources
+F:\airplane\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.Properties.Resources.resources
+F:\airplane\Projects\teste_vtk\teste_vtk\obj\x86\Debug\teste_vtk.csproj.GenerateResource.Cache
